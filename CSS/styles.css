@@ -1,0 +1,57 @@
+body{
+  background-color: #d6e2f0;
+align-items: center;
+}
+.white-card{
+
+  height: 450px;
+  width: 280px;
+  background-color: white;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 100px;
+
+}
+
+img{
+
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+border-bottom-right-radius: 15px;
+height: 250px;
+width: auto;
+margin-left: 15px;
+margin-top: 15px;
+margin-bottom: 10px;
+
+
+
+}
+.qrcode-image{
+display:flex;
+align-items: center;
+
+}
+
+
+h1{
+font-family: 'Outfit';
+text-align: center;
+font-size: 1.25rem;
+margin-left: 20px;
+margin-right: 20px;
+color: #1f3251;
+font-weight: bold;
+}
+
+p{
+  font-family: 'Outfit';
+  text-align: center;
+  color: #7b859d;
+font-weight: 600;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 0.85rem;
+}
+@media screen and (min-width: 375px)
